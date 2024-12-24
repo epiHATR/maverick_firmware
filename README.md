@@ -4,7 +4,7 @@ Marverick (pronounced as `/ˈmævrɪk/`), is the first firmware running on RTL87
 This firmware was designed for Wireless testing purpose and education only.
 
 > [!IMPORTANT]  
-> This is the trial version that allow user perform **50 deauthentication times**. For extra usage, contact me at TikTok @bluecylabs for extend.
+> This is the trial version that allow user perform **100 deauthentication times**. For extra usage, contact me at TikTok @bluecylabs for extend.
 
 # Introduction
 
@@ -45,11 +45,7 @@ Follow this tutorial if you've just bought the RTL8720DN BW16 kit. [Step 4: Eras
 
 ## Upload firmware
 1. Clone this repository to your Local Machine (PC or Laptop, Windows only)
-2. Extract the zipped file and navigate to the folder
-```bash
-maverick_firmware/maverick.v.0.1.0
-```
-3. Execute the `upload.bat` by double click on the file.
+2. Execute the `upload.bat` by double click on the file.
 4. Plug & press buttons on RTL8720DN BW16 to enter upload mode
 5. Provide the COM port where the RTL8720DN BW16 is connected
 ![bat execution](./image/bat_file.jpg)
